@@ -39,3 +39,6 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# musique (droits) : gardée en local, hors du dépôt
+/public/audio/voyages/father-ocean.m4a
